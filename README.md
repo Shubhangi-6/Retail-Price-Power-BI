@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+#   Retail Price Dashboard
 Hey Github network!
 Excited to share my Power BI Retail Price Dashboard Project! 🚀
 🔍 I crafted a visually insightful dashboard that brings Products Performance through various charts, slicers, graphs etc.
